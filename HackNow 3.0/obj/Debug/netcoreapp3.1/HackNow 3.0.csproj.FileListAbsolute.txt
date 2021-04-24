@@ -1,0 +1,20 @@
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.exe
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.deps.json
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.runtimeconfig.json
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.runtimeconfig.dev.json
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.dll
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\bin\Debug\netcoreapp3.1\HackNow 3.0.pdb
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.csprojAssemblyReference.cache
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Form1.resources
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Properties.Resources.resources
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.AssemblyInfoInputs.cache
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.AssemblyInfo.cs
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.dll
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.pdb
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow 3.0.genruntimeconfig.cache
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Form2.resources
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Form3.resources
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Form4.resources
+C:\Users\Tony\source\repos\HackNow 3.0\HackNow 3.0\obj\Debug\netcoreapp3.1\HackNow_3._0.Form5.resources
